@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrikorALT", "Krik Cheats\KrikorALT.csproj", "{F972FE26-BAFE-4943-A038-14323586EFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F972FE26-BAFE-4943-A038-14323586EFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F972FE26-BAFE-4943-A038-14323586EFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F972FE26-BAFE-4943-A038-14323586EFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F972FE26-BAFE-4943-A038-14323586EFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029DEF3E-1EC8-416C-BF1A-27BD4BED1237}
+	EndGlobalSection
+EndGlobal
